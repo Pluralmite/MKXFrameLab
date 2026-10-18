@@ -4,7 +4,7 @@ Live frame data, hitboxes and hurtboxes for **Mortal Kombat X** (PC, Steam) Prac
 
 > **Practice mode only.** The overlay and every input feature turn themselves off in any other game mode. Never use mods online.
 
-Download the ready-to-use build from [Nexus Mods](https://www.nexusmods.com/mortalkombatx). This repository is the source code.
+Download the ready-to-use build from [Nexus Mods](https://www.nexusmods.com/mortalkombatx/mods/63). This repository is the source code.
 
 ## Features
 
